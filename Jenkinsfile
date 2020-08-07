@@ -3,17 +3,17 @@ pipeline{
 	
 	stages{
 		stage('Nunit Test Project'){
-			step{
+			steps{
 				echo 'Nunit Test Project'
 			}
 		}
 		stage('Buld'){
-			step{
+			steps{
 				echo 'Build the project'
 			}
 		}
 		stage('Test'){
-			step{
+			steps{
 				echo'test the project'
 			    }
 		
