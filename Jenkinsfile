@@ -9,6 +9,7 @@ pipeline{
 		}
 		stage('Buld'){
 			steps{
+				build 'https://github.com/gmurad99/NunitTestProject.git'
 				echo 'Build the project'
 			}
 		}
