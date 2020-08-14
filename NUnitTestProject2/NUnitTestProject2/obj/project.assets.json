@@ -4638,11 +4638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmmur\\Desktop\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj",
+      "projectUniqueName": "C:\\Users\\gmmur\\Desktop\\NunitTestProject\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj",
       "projectName": "NUnitTestProject2",
-      "projectPath": "C:\\Users\\gmmur\\Desktop\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj",
+      "projectPath": "C:\\Users\\gmmur\\Desktop\\NunitTestProject\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj",
       "packagesPath": "C:\\Users\\gmmur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmmur\\Desktop\\NUnitTestProject2\\NUnitTestProject2\\obj\\",
+      "outputPath": "C:\\Users\\gmmur\\Desktop\\NunitTestProject\\NUnitTestProject2\\NUnitTestProject2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gmmur\\AppData\\Roaming\\NuGet\\NuGet.Config",
